@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { Carousel } from "flowbite-react";
-import "./carousel.css"
 
 interface Product {
   id: number;
